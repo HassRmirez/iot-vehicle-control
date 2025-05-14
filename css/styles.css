@@ -1,0 +1,19 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#movimientoActual {
+    font-weight: bold;
+    font-size: 2.2rem;
+}
+
+footer {
+    border-radius: 20px;
+    font-weight: bold;
+}
