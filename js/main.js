@@ -1,4 +1,4 @@
-const API_URL = "http://52.55.98.232:5000/api/devices";
+const API_URL = "http://44.211.172.108:5000/api/devices";
 
 let ipPublica = "";
 
